@@ -1,2 +1,2 @@
 # Validation
-This is a simple validation made using html, css, javascript.
+This is a simple validation made using html, css, javascript. It takes the Name, Email ID. In email ID it checks the proper format of a genuine email id like @,.com,small letters.Then it takes the User name and password and after that it checks for the verification of password. After filling the form the user can either clear the form or create the form.
